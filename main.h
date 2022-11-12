@@ -6,6 +6,6 @@
 #include <unistd.h>
 
 int getPid (void);
-int getPidMax (void);
+int main(int ac, char **av);
 
 #endif
